@@ -1,4 +1,4 @@
-<h1>Dot.Net</h1>h1>
+<h1>Dot.Net</h1>
 <br>
 <br>
 step 1: Download VS Code and LTS version of Dotnet SDK (v8.0.303 in use).
