@@ -8,6 +8,6 @@ step 3:Above the new folder you can see the search bar where you clear all the f
 <br>
 step 4:Check if dotnet has been installed successfully in your computet by giving the command, <code>dotnet --version</code>
 <br>
-step 5:After successfully being shown the version details, Write command <b>dotnet new console</b>
+step 5:After successfully being shown the version details, Write command <code>dotnet new console</code>
 <br>
 step 6:Now you can successfully copy the code and do the work. <i><b>Thank you for reaching out!</i></b>
