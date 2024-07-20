@@ -34,6 +34,7 @@ public class Program
            li.Add(new Movie("Pathan"));
            li.Add(new Movie("sahoo"));
            li.Add(new Movie("KGF 2"));
+           li.Add(new Movie("RRR"));
            foreach(var movie in li){
             Console.WriteLine(movie.getTitle());
            }
