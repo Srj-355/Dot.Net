@@ -2,6 +2,7 @@ Dot.Net
 <br>
 step 1: Download VS Code and LTS version of Dotnet SDK (v8.0.303 in use).
 <br>
+<br>
 step 2:Go to explorer and create a new folder
 <br>
 step 3:Above the new folder you can see the search bar where you clear all the file path and Enter cmd.
