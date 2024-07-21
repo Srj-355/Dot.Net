@@ -3,12 +3,14 @@ public class Movie
     private String title;
     private String genre;
     private int year;
-public Movie(){
+    public Movie()
+    {
 
-}
-public Movie(String movieName){
-    this.title=movieName;
-}
+    }
+    public Movie(String movieName)
+    {
+        this.title = movieName;
+    }
     public void setTitle(String title)
     {
         this.title = title;
