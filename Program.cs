@@ -9,7 +9,7 @@ public class Program
         Console.WriteLine("Welcome to QFI movies!");
 
         Console.WriteLine("Please Enter your name for movies list:");
-
+ 
         string name = Console.ReadLine();
         User u = new User();
         u.setUsername(name);
